@@ -1,5 +1,9 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# 서울대학교 정보문화학과 과제전 안내 페이지
 
+본 파일은 정보문화학과 학생들이 제작한 서울대학교 정보문화학과 과제전 안내 페이지입니다.
+
+==========================================================================================
+Start Bootstrap의 템플릿을 활용하여 제작되었습니다.
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
